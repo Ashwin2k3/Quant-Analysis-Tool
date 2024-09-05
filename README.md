@@ -6,3 +6,6 @@
 ```
 pipreqs
 ```
+
+#sentiment analysis
+[news sentiment analysis](readme/sentiment.md)
