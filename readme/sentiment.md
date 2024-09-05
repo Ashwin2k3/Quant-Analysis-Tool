@@ -1,6 +1,6 @@
 Here’s a `README.md` for your project:
 
-```markdown
+
 # Stock Market Sentiment Analysis with Streamlit
 
 This project is a Stock Market Sentiment Analysis tool built using `Streamlit`, `yfinance`, `requests`, and `TextBlob`. It analyzes real-time news articles related to specific companies, performs sentiment analysis, and generates a buy/sell/hold signal based on the sentiments.
